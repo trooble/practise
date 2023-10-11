@@ -1,0 +1,8 @@
+1. Created file1.txt
+2. Modified file1 on ipad, commited and pushed
+3. Cloned repo on iphone
+4. Modified file1.txt on iphone, commited
+5. Attempted push on iphone, got merge dialog
+6. Edited file1.txt which contained a diff
+7. Pushed from iphone again, accepted
+8. Pulled on ipad, ipad repo now has merged version
